@@ -4,6 +4,8 @@ A simple cross platform CoWIN ( COVID-19 ) India Vaccine Slot Availability Track
 
 **The goal here is to keep it simple so that more people can use it and get vaccinated.**
 
+> Please make sure **DO NOT DISTURB** is turned **off** on your system to get notifications.
+
 ## Features
 
 - ✅ Supports Windows, Mac, Linux.
