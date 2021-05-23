@@ -18,11 +18,27 @@ A simple cross platform CoWIN ( COVID-19 ) India Vaccine Slot Availability Track
 
 Download the zip based on your system.
 
-Windows
+**Windows Download:**
 
-Mac
+* [Windows x64](https://github.com/abhimanyu003/cowin-tracker/releases/download/v0.1.0/cowin-tracker_0.1.0_windows_amd64.zip)
+* [Windows x86](https://github.com/abhimanyu003/cowin-tracker/releases/download/v0.1.0/cowin-tracker_0.1.0_windows_386.zip)
 
-Linux
+Extract the zip and run `cowin-tracker.exe`
+
+**Mac:**
+
+* [Mac x64](https://github.com/abhimanyu003/cowin-tracker/releases/download/v0.1.0/cowin-tracker_0.1.0_darwin_amd64.tar.gz)
+
+Extract zip and run `cowin-tracker`
+
+**Linux:**
+
+* [Linux x64](https://github.com/abhimanyu003/cowin-tracker/releases/download/v0.1.0/cowin-tracker_0.1.0_linux_amd64.tar.gz)
+* [Linux x86](https://github.com/abhimanyu003/cowin-tracker/releases/download/v0.1.0/cowin-tracker_0.1.0_linux_386.tar.gz)
+
+Extract zip and run `cowin-tracker`
+
+To see all releases [visit here](https://github.com/abhimanyu003/cowin-tracker/releases)
 
 ## Demo
 
