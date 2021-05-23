@@ -50,6 +50,7 @@ To see all releases [visit here](https://github.com/abhimanyu003/cowin-tracker/r
 ## Authors
 
 - [@abhimanyu003](https://www.github.com/abhimanyu003)
+- [@kshitijmehta](https://github.com/kshitijmehta)
 
   
 ## Acknowledgements
